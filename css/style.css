@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Poppins&family=Roboto:ital,wght@1,300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --orange-color: #FA804C;
+}
+
+#header {
+    background-color: #FFF9F4;
+}
+
+.heading-color,
+.price-color {
+    color: var(--orange-color);
+}
+
+.card-img {
+    background-color: #F1F1F1;
+}
